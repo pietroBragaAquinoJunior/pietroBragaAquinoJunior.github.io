@@ -3,4 +3,6 @@ Decidi criar um blog para guardar memórias, pensamentos e talvez influenciar po
 Link da ferramenta:
 [jekyll](https://jekyllrb.com/)
 
-Deus abençoe a todos, uma ótima semana.
+"Porque Deus amou tanto ao mundo que ele deu o seu Filho unigênito,
+para que todo o que nele crê não pereça, mas tenha a vida eterna. "
+BKJ João 3:16
