@@ -14,7 +14,7 @@ O problema de usar IA vai muito além da destruição da capacidade de raciocín
 
 Faça como George Hortz, o cara que crackeou o ps3, é um dos maiores programadores da atualidade, programa porque ama, e também tem um blog jekyll como esse que você está lendo. "The real story of this era will be who manages to avoid harming themselves in their AI psychosis." "A verdadeira história dessa era será quem consegue evitar se machucar em sua psicose de IA."
 
-![Tux, the Linux mascot](../assets/images/3/geohot.jpg)
+![Tux, the Linux mascot](./assets/images/3/geohot.jpg)
 
 [link postagem geohot contra ia](https://geohot.github.io/blog/jekyll/update/2026/05/24/the-eternal-sloptember.html)
 
