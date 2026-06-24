@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Não me arrependo de parar de usar IA."
+date:   2026-06-23 20:20:00 -0300
+categories: rotina trabalho IA
+---
+
+Estou com vontade de continuar escrevendo hoje, mas agora falando sobre trabalho. Se tem uma coisa que eu não me arrependo, é da decisão de parar de usar IA. Eu sou programador, pra quem não leu a página sobre, e por isso eu protejo ao máximo a minha mente, o meu ativo mais precioso. Eu faço várias coisas para manter a minha mente afiada, mas definitivamente o que mais impactou no meu desempenho foi parar 100% de usar IA no meu trabalho. Provavelmente todos que estão lendo esse texto conseguem imaginar a razão do porque a IA pode ser tão deletéria, danosa e venenosa para o nosso cérebro. Acontece que o nosso cérebro foi programado de fábrica para achar as soluções mais fáceis possíveis e isso é uma decisão inteligente da natureza. Porque eu deveria carregar uma bola pesada se eu posso rolar ela? Porque eu deveria escalar uma parede se eu posso subir a escada? Porque eu deveria correr na velocidade máxima se eu não estou com pressa e posso andar? Essa decisão, de fazer o que é mais fácil, é obviamente benéfica em diversos contextos. Porém, quando se trata de usar inteligência artificial para solucionar os problemas que o meu cérebro deveria resolver, o tiro sai totalmente pela culatra. É muito fácil criarmos uma nova via de comunicação rápida que liga Problema à janela do chatGPT. Ou seja, você não pensa mais em como vai solucionar o problema, você simplesmente detecta que o problema existe e joga na aba da IA. Isso cria as mais hilárias situações que podemos acompanhar em sites e vídeos que mostram os prompts mais engraçados de desenvolvedores. Algo parecido com o que aconteceu com o Thiago Finch, profissional do marketing (e da enrolação), que ao usar IA disse para ela ativar a força do Mega Brain, kkkkk. Já vi ao vivo programadores pedirem com o CapsLock ativado para a IA entender que eles estão falando sério e talvez trabalhar de forma mais eficiente, não consigo evitar de dizer que acho isso engraçado, pois o modelo obviamente não vai trabalhar de forma mais eficiente por causa do CapsLock ligado kkkk. O problema de usar IA vai muito além da destruição da capacidade de raciocínio, impacta a memória também. Afinal, é muito difícil gravar algo que não foi entendido. Se você não entendeu, como espera decorar a solução? Eu poderia explorar ainda mais esse assunto e falar como a IA destrói propósito, honra e mérito, assuntos bem mais profundos, mas por hoje é suficiente. Se você acha que eu estou exagerando, ainda bem que não conhece Sócrates. Ele se preocupava com o impacto da escrita na memória e sobre o jeito de aprender, e é por isso que ele mesmo, não escreveu uma linha sequer.
+
+Faça como George Hortz, o cara que crackeou o ps3, é um dos maiores programadores da atualidade, programa porque ama, e também tem um blog jekyll como esse que você está lendo. "The real story of this era will be who manages to avoid harming themselves in their AI psychosis." "A verdadeira história dessa era será quem consegue evitar se machucar em sua psicose de IA."
+
+(link postagem geohot contra ia)[https://geohot.github.io/blog/jekyll/update/2026/05/24/the-eternal-sloptember.html]
+
+"A necessidade põe o cérebro a caminho."
+Dona Benta, Monteiro Lobato.
+
+Desejo um ótimo dia a todos.
