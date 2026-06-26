@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "Li meu post anterior e percebi que escrevo mal..."
+date:   2026-06-25 22:24:00 -0300
+categories: pensamentos
+---
+Li o meu post anterior e percebi que eu escrevo mal... Eu juro que sou afalbetizado, eu juro.
+
+<div style="display:flex; justify-content:center">
+    <img src="/blog/assets/images/5bebe.jpg" alt="drawing" width="200"/>
+</div>
+
+Provavelmente eu irei, em algum momento, voltar e revisar a escrita dessas postagens mas por enquanto, estou com preguiça.
+
+Uma vez eu vi um escritor famoso dar uma entrevista no roda-viva, José Saramago. Na época, eu estava lendo um dos livros dele e eu fiquei curioso para saber como era essa figura marcante na vida real. Lembro de achar impressionante o fato de que ele falava exatamente como ele escrevia os livros dele, e isso me fez pensar se eu na vida real falo igual um louco, porque foi assim que eu me senti lendo a minha última postagem "Técnica para melhorar a minha rotina."
+
+Você deve ter percebido que estou tomando mais cuidado com as palavras, justamente para ficar uma experiência melhor pra quem vai ler esse blog esquecido no meio de um bilhão de sites que existem na internet.
+
+> Conforme a Pesquisa de Servidor Web, feita pela Netcraft e publicada em julho de 2025, há mais de um bilhão de sites no mundo, mais especificamente 1.275.138.490.
+
+É maluquisse parar pra pensar que de 1 bilhão de sites, a pessoa veio ler justamente esse aqui. Está tão desocupado quanto eu kkkkkkk
+
+Não tenho muitas novidades hoje, como eu disse em outras postagens, minha vida é bem monótona. Nesse momento, só tenho a vontade de escrever qualquer coisa mesmo. E a vida é assim, cheio de altos e baixos. Nem sempre a inspiração vem à nossa mente, a menos que você seja o Michael Jackson.
+
+<div style="display:flex; justify-content:center">
+    <img src="/blog/assets/images/5michael.jpg" alt="drawing" width="200"/>
+</div>
+
+A propósito, se você não assistiu o filme do Michael Jackson, sugiro que corra pra assistir e com toda a família viu? Simplesmente o maior artista de todos os tempos. 
+
+Enfim, não consigo pensar em mais nada, provavelmente porque estou com baixa glicose no cérebro (porque não jantei), está tarde, estou desidratado e com pouco descanso da noite passada. Então irei me retirar, fingindo que não fiz os senhores perderem 10 minutos da vida de vocês...
+
+
+<div style="display:flex; justify-content:center">
+    <img src="/blog/assets/images/5tom.gif" alt="drawing" width="400"/>
+</div>
+
+
+
+
+
+
+
