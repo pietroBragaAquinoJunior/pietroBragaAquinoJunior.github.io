@@ -1,0 +1,299 @@
+---
+layout: post
+title:  "Pontos de Orgulho (Detalhamento da Técnica)"
+date:   2026-06-27 14:51:00 -0300
+categories: técnica
+---
+
+<div style="display:flex; justify-content:space-around; padding:20px">
+    <img src="/blog/assets/images/10medalha.png" alt="drawing" width="100"/>
+</div>
+
+Resolvi detalhar mais a postagem que eu fiz antes, sobre a técnica que eu criei chamada "Pontos de Orgulho", para melhorar a rotina. Acontece que eu estou usando essa técnica e está dando tão certo, que eu resolvi detalhar mais aqui com exemplos e quem sabe no futuro escrever um livro sobre isso, risos.
+
+Escrevi sobre essa técnica na postagem "Técnica para melhorar a minha rotina.", mas agora que usei ela por alguns dias e tive bons resultados, resolvi detalhar melhor caso alguém queira replicar.
+
+Vou explicar com exemplos, porque pra mim, essa é a maneira mais fácil de transmitir conhecimento. Imagine um jovem chamado Lucas que é viciado em jogos online. Lucas vai pra escola de manhã e passa o resto do tempo inteiro jogando World of Warcraft no seu quarto, trancado, escuro e bagunçado.
+
+Hoje é o dia 1. Lucas ouviu sobre essa técnica e resolveu cair de cabeça e aplicar ela sem demora. Depois de ler e entender como funciona ele decidiu colocar em prática. Se preparou e abriu o seu LibreOffice (Ou qualquer programa que permita criar uma tabela simples, pode ser até no lápis e papel). E criou a tabela vazia como no exemplo abaixo:
+
+Tabela do Dia 1 -> Pontuação de Lucas: 0 pontos. Tabela: Vazia. (Jogou wow o dia inteiro)
+<table>
+  <tr>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+Lucas, no presente momento, sente zero orgulho de si mesmo. Ele não quer ter mais essa rotina destruidora. As notas estão indo por água abaixo, os seus sonhos sumiram e a única coisa que ele pensa é em World of Warcraft. Ele acorda pensando em WOW e dorme pensando em WOW. Tudo que ele precisa pra mudar já está criado (acredite se quiser) e amanhã ele vai começar com força total. 
+
+Lucas acorda e agora é o segundo dia. Ele decidiu que vai passar o dia inteiro sem jogar WOW. Essa é a missão. Ele não vai fazer mais nada, não precisa de mais nada. O foco dele é total em parar de jogar WOW, pois ele sabe que se fizer isso, vai sentir MUITO orgulho de si mesmo. Afinal, é uma conquista e tanto.
+
+Lucas conseguiu e ao final do segundo dia ele criou a tabela do segundo dia e se preparou para dar a si mesmo a pontuação de orgulho. Observe que a pontuação sempre vem DEPOIS, de ter feito a atividade. ***Depois que concluir a tarefa, reflita sobre ela e atribua a si mesmo a pontuação baseado no seu orgulho em fazer aquilo.***
+
+Tabela do Dia 2 -> Pontuação de Lucas: 90 pontos. Digno de sair pra comemorar!
+<table>
+  <tr>
+    <th>90</th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td>Me esforcei ao máximo, foi muito difícil mas eu consegui passar o dia inteiro sem jogar WOW! HUHULL</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+90 Pontos é uma pontuação insana, absurda, fora de série. Pra você ter uma idéia, estudar inglês (que é algo que se faz todo dia por exemplo) é 5 pontos normalmente. 10 pontos seria: "estudei inglês e decidi usar o caderno e anotar para estudar melhor, fui além do meu limite e estudei mais do que normalmente eu consigo."
+
+Lucas se atribuiu essa pontuação. Ele não perguntou pra ninguém, ele simplesmente conhece a história dele e o quão difícil foi passar o dia inteiro sem jogar esse jogo. Ele se sente muito orgulhoso, pois conhecendo a tragetória pessoal dele, isso é digno de comemoração, de sair pra jantar e de ficar feliz.
+
+Agora acompanhe as tabelas dos dias: 3, 4, 5, 6 e 7:
+
+Tabela do Dia 3 -> Pontuação de Lucas: 80 pontos. 
+<table>
+  <tr>
+    <th>80</th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td>Me esforcei bastante hoje também, e não joguei wow!</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+Tabela do Dia 4 -> Pontuação de Lucas: 70 pontos. 
+<table>
+  <tr>
+    <th>70</th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td>Está ficando mais fácil não jogar wow!</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+Tabela do Dia 5 -> Pontuação de Lucas: 30 pontos. 
+<table>
+  <tr>
+    <th>30</th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td>Hoje quase não me esforcei para ficar longe do jogo.</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+
+Tabela do Dia 6 -> Pontuação de Lucas: 10 pontos. 
+<table>
+  <tr>
+    <th>10</th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td>Não precisei me esforçar, nem tive vontade de jogar esse jogo.</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+Tabela do Dia 7 -> Pontuação de Lucas: 0 pontos. 
+<table>
+  <tr>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+Depois de 7 dias, Lucas não sente mais dificuldade nenhuma em ficar longe de World of Warcraft, e a sua lista voltou a ficar vazia. Ele não sente mais orgulho em ficar longe desse jogo porque ele já superou essa dificuldade, pra ele é fácil não jogar. Agora ele deve encher a tabela dele com novas atividades para voltar a pontuar novamente.
+
+Por exemplo:
+
+Tabela do Dia 8 -> Pontuação de Lucas: 45 pontos. 
+<table>
+  <tr>
+    <th>20</th>
+    <th>10</th>
+    <th>5</th>
+    <th>10</th>
+    <th></th>
+  </tr>
+  <tr>
+    <td>Eu sempre quis fazer natação, então me matriculei e fiz minha primeira aula hoje!</td>
+    <td>Li um artigo muito bom do começo ao fim sobre inteligência emocional.</td>
+    <td>Fiz meu café da manhã, coisa que eu geralmente não faço, e ficou muito bom!</td>
+    <td>Estudei inglês hoje, duas vezes uma de manhã e outra de tarde.</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+É assim que funciona a técnica pessoal! Gostaram? Se isso te ajudou, sinta-se livre para me mandar um email, contando a sua história. Quem sabe algum dia eu escreva um livro sobre isso e coloque você como exemplo? [pietrobragaaquino@gmail.com](pietrobragaaquino@gmail.com)
+
+Isso é tudo pessoal!
+
+<div style="display:flex; justify-content:space-around; padding:20px">
+    <img src="/blog/assets/images/9thatsall.jpg" alt="drawing" width="300"/>
+</div>
