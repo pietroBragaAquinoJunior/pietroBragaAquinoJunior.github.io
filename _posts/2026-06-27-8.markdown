@@ -1,0 +1,53 @@
+---
+layout: post
+title:  "Essa postagem é importante. Vai por mim, leia."
+date:   2026-06-27 11:26:00 -0300
+categories: teclado cs vicio trabalho
+---
+
+Não vou colocar memes, pois acredito que o assunto hoje é mais sério e reflexivo. Acabei de assistir esse vídeo no youtube:
+
+[Vídeo Easy is not lazy por Jon Jandai](https://www.youtube.com/watch?v=a-jMU0Nyq-Y)
+<div style="display:flex; justify-content:start; padding:40px">
+    <img src="/blog/assets/images/8jon.png" alt="drawing" width="300"/>
+</div>
+
+Achei interessante porque pessoas mais velhas possuem muita sabedoria pra passar, e o título também me chamou atenção, "easy is not lazy". Se você não entende inglês, vou resumir o vídeo. Jon Jandai fala nesse vídeo sobre uma coisa que provavelmente todo mundo já sabe desde criança, mas talvez em alguns momentos esqueçamos disso.
+
+***Sempre existe a forma fácil de fazer algo.*** Na minha opinião, isso é totalmente verdade.
+Essa idéia, que praticamente todo mundo já conhece, não é novidade. Todo mundo já viu exemplos em desenhos animados, de um personagem tentando carregar uma pedra pesada circular ao invés de empurrá-la, por exemplo.
+
+Porque é interessante voltar e pensar sobre conceitos básicos como esse? Porque talvez você perceba coisas que antes não percebeu. Eu por exemplo, passei a vida inteira estudando errado e achando difícil a vida escolar. Ao mesmo tempo que eu via pessoas inteligentes como meu melhor amigo Rodrigo, passarem tão fácil de ano que eles pareciam flutuar.
+
+Acontece que eu não queria mudar a minha forma de estudar. Eu passava dias jogando jogos online e deixava pra estudar tudo de última hora, e isso me prejudicou muito tanto na capacidade de memorização quanto na minha vida emocional (Hoje tenho gastrite, refluxo, problemas relacionados à ansiedade pois atacam o estômago. Eu sempre fui muito ansioso.)
+
+Eu achava que estudar era algo difícil mesmo, que não tinha outra opção. Nunca poderia tornar isso uma atividade fácil. Eu me juntava aos meus outros amigos que também estudavam da mesma forma e todos eles tinham a mesma opinião, que era super difícil. Se eles tivessem assistido esse vídeo e realmente refletido sobre ***Por quê é tão difícil? E como posso tornar mais fácil?*** Mudanças com certeza teriam acontecido.
+
+Esse pensamento de achar a forma mais fácil é extremamente útil porém nos últimos anos, como todos nós sabemos, surgiu uma exceção. Antes, as pessoas utilizavam apenas ferramentas passivas. Hoje, surgiu a primeira ferramenta na história que consegue passar a impressão de conseguir resolver qualquer problema. Estou falando de IAs (Mais precisamente LLMs), como ChatGpt, Gemini e afins.
+
+***Além de querer fazer as coisas da maneira mais fácil, você precisa pensar profundamente em qual é o seu objetivo.*** Se o seu objetivo for algo superficial como "Eu só quero entregar, eu só quero mostrar resultado." Você vai se dar mal. Esse é o tipo de resposta de alguém que não parou e pensou profundamente sobre a pergunta.
+
+Na minha visão pessoal (e você não é obrigado a compartilhar da minha opinião), o trabalho é algo bom. Existem inúmeras passagens na bíblia (eu sou católico, e você tem todo direito de ter sua opinião sobre isso.) que falam que o trabalho é algo benéfico ao homem.
+
+> Observe a formiga, preguiçoso,
+> reflita nos caminhos dela e seja sábio! Ela não tem nem chefe,
+> nem supervisor, nem governante, e ainda assim armazena
+> as suas provisões no verão
+> e na época da colheita
+> ajunta o seu alimento. Até quando você vai ficar deitado,
+> preguiçoso?
+> Quando se levantará de seu sono? Tirando uma soneca,
+> cochilando um pouco,
+> cruzando um pouco os braços
+> para descansar, a sua pobreza o surpreenderá
+> como um assaltante,
+> e a sua necessidade sobrevirá
+> como um homem armado sobre você. Provérbios 6:6-11
+
+Isso é apenas uma passagem, mas eu quero que você reflita. Olhe para a formiga. Ela trabalha em grupo, explora, encontra oportunidade, avisa as outras, colabora para carregar a comida e leva até o formigueiro. ***Foi ela quem encontrou a comida. Foi ela quem carregou a comida. Ela dividiu a comida com suas irmãs.*** Quando você usa IA no seu trabalho você se sente superior ou inferior à essa formiga?
+
+O que provavelmente acontece é isso: Você não pensa mais por si só. Você pede as coisas e espera que a IA resolva. Você não conversa e nem interage adequadamente mais com as outras pessoas. Não é você quem resolveu o problema. Você não compartilhou nada, pois seu objetivo é apenas mostrar serviço.
+
+Eu espero que realmente você reflita sobre isso. A única exceção que eu conheço sobre esse pensamento de achar o caminho mais fácil, é utilizar IA. Pra todo resto, vai enfrente, encontre o caminho mais fácil.
+
+Uma boa tarde, e que deus o abençoe.
