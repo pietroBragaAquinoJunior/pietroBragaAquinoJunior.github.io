@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "Sobre pirataria."
+date:   2026-06-27 13:16:00 -0300
+categories: pirataria
+---
+
+Hoje entrei na steam e achei um jogo interessante "HASTE" é o nome. Ele passou na minha avaliação de "Jogos que valem a pena jogar." ou seja, não vai me viciar, não é online/competitivo, não é tóxico, e é perfeito para relaxar jogando 30 minutos por dia.
+
+Depois que eu comprei esse jogo, fiquei pensando sobre pirataria. Já tive diversas discursões sobre pirataria e a maior parte delas se resume ao único argumento: Pirataria é errado. E aí surge aquele clima de raiva uns pelos outros e o assunto morre e é isso aí. Provavelmente ninguém vai mudar de opinião, sabe por quê? Ninguém pensou profundamente sobre o assunto.
+
+<div style="display:flex; justify-content:space-around; padding:20px">
+    <img src="/blog/assets/images/9haste.jpeg" alt="drawing" width="200"/>
+    <img src="/blog/assets/images/9pirataria.jpg" alt="drawing" width="200"/>
+</div>
+
+Eu acabei de pensar sobre isso e cheguei a uma conclusão e tentei criar uma fórmula também, sinta-se livre para julgar ou criar as suas próprias conclusões mas basicamente: ***Na maioria das vezes que alguém faz algo mas não se orgulha / não apoia a prática, existe um problema anterior à essa decisão que não foi solucionado.***
+
+Agora vou explicar melhor o que eu quero dizer. Imagine o seguinte cenário, um estudante com 18 anos viciado em jogos. Normalmente um jogo deixa de chamar a atenção dele em menos de 2 horas, e se um jogo consegue manter a atenção dele por mais tempo, normalmente ele consegue zerar esse jogo em menos de 2 dias.
+
+Eu conheço pessoas assim, e eu já foi assim também. Eu era basicamente um devorador de jogos, sempre atrás de ***mais um mais um mais um mais um*** que me fornecesse uma experiência diferente, e eu rapidamente perdia o interesse.
+
+Agora junte isso com a nossa realidade, onde jogos como cyberpunk, red dead 2, gta 5, custam uma fortuna. Você acha que esse estudante vai comprar jogos de 300, 400, 500 reais sendo que ele consegue zerar esses jogos em 2 dias e perder o interesse rapidamente neles? ***Óbvio que não.*** Esse é o problema.
+
+A pirataria na minha opinião normalmente é resultado de um problema anterior. É uma consequência. Eu não conheço ninguém que pirateie jogos e efetivamente apoie a prática. É a mesma coisa de um fumante, ele fuma mas não quer que outras pessoas fumem e nem sai por aí apoiando a prática. Ela faz isso por conta de um problema não resolvido, que no caso dos jogos, é o vício, a perca de interesse precoce, a rotatividade de jogos e estilo de vida.
+
+No momento que você equilibra a sua vida e joga apenas 2 horas por dia por exemplo, você não vai sentir essa necessidade doentia de ficar trocando de jogo igual troca de meias. E isso vai contribuir muito para você querer comprar os jogos, pois sabe que vai jogá-los por muito tempo e aproveitar muito mais.
+
+Eu meio que já vivi os dois lados, é por isso que hoje eu comprei dois jogos e paguei um valor alto de 75 reais, porque eu sei que vou jogar eles por muito tempo, já que quase não estou jogando nada.
+
+E se você gosta muito de jogar jogos, a dica que eu posso dar é: Fique longe de jogos multiplayer competitivos e tóxicos. Eles drenam muito o seu tempo. A melhor coisa a fazer, é encontrar outras atividades, como leitura, escrita, instrumento musical ou socialização.
+
+Por hoje é só pessoal.
+
+<div style="display:flex; justify-content:space-around; padding:20px">
+    <img src="/blog/assets/images/9thatsall.jpg" alt="drawing" width="300"/>
+</div>

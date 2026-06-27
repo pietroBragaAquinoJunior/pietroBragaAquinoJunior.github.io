@@ -2,7 +2,7 @@
 layout: post
 title:  "Essa postagem é importante. Vai por mim, leia."
 date:   2026-06-27 11:26:00 -0300
-categories: teclado cs vicio trabalho
+categories: trabalho
 ---
 
 Não vou colocar memes, pois acredito que o assunto hoje é mais sério e reflexivo. Acabei de assistir esse vídeo no youtube:
@@ -23,7 +23,7 @@ Acontece que eu não queria mudar a minha forma de estudar. Eu passava dias joga
 
 Eu achava que estudar era algo difícil mesmo, que não tinha outra opção. Nunca poderia tornar isso uma atividade fácil. Eu me juntava aos meus outros amigos que também estudavam da mesma forma e todos eles tinham a mesma opinião, que era super difícil. Se eles tivessem assistido esse vídeo e realmente refletido sobre ***Por quê é tão difícil? E como posso tornar mais fácil?*** Mudanças com certeza teriam acontecido.
 
-Esse pensamento de achar a forma mais fácil é extremamente útil porém nos últimos anos, como todos nós sabemos, surgiu uma exceção. Antes, as pessoas utilizavam apenas ferramentas passivas. Hoje, surgiu a primeira ferramenta na história que consegue passar a impressão de conseguir resolver qualquer problema. Estou falando de IAs (Mais precisamente LLMs), como ChatGpt, Gemini e afins.
+Esse pensamento de achar a forma mais fácil é extremamente útil, porém nos últimos anos, como todos nós sabemos, surgiu uma exceção. Antes, as pessoas utilizavam apenas ferramentas passivas. Hoje, surgiu a primeira ferramenta na história que consegue passar a impressão de conseguir resolver qualquer problema. Estou falando de IAs (Mais precisamente LLMs), como ChatGpt, Gemini e afins.
 
 ***Além de querer fazer as coisas da maneira mais fácil, você precisa pensar profundamente em qual é o seu objetivo.*** Se o seu objetivo for algo superficial como "Eu só quero entregar, eu só quero mostrar resultado." Você vai se dar mal. Esse é o tipo de resposta de alguém que não parou e pensou profundamente sobre a pergunta.
 
@@ -43,6 +43,10 @@ Na minha visão pessoal (e você não é obrigado a compartilhar da minha opini�
 > como um assaltante,
 > e a sua necessidade sobrevirá
 > como um homem armado sobre você. Provérbios 6:6-11
+
+<div style="display:flex; justify-content:center; padding:40px">
+    <img src="/blog/assets/images/7formiga.jpg" alt="drawing" width="400"/>
+</div>
 
 Isso é apenas uma passagem, mas eu quero que você reflita. Olhe para a formiga. Ela trabalha em grupo, explora, encontra oportunidade, avisa as outras, colabora para carregar a comida e leva até o formigueiro. ***Foi ela quem encontrou a comida. Foi ela quem carregou a comida. Ela dividiu a comida com suas irmãs.*** Quando você usa IA no seu trabalho você se sente superior ou inferior à essa formiga?
 
