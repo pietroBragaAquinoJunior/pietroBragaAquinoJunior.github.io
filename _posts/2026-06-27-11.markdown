@@ -1,0 +1,54 @@
+---
+layout: post
+title:  "Falando mal do Youtube =/"
+date:   2026-06-28 11:00:00 -0300
+categories: crítica
+---
+
+<div style="display:flex; justify-content:space-around; padding:20px">
+    <img src="/blog/assets/images/11youtube.png" alt="drawing" width="400"/>
+</div>
+
+Hoje eu vou falar mal do Youtube. Eu sei, eu sei, você provavelmente vai dizer: "Se vai falar mal, deve parar de usar." ou algo como: "Você não pode falar mal de algo que você usa todo santo dia." Mas, fica aí que eu vou esclarecer melhor.
+
+Pra começar, eu não vou parar de usar Youtube. É uma ótima ferramenta para obter novas opiniões, obter novos conhecimentos, ter novas experiências entre outras inúmeras coisas. Mas, como tudo que o ser o humano cria, existe um lado ruim. Eu penso que no caso do Youtube, esse lado é mais grave ainda, pois as pessoas não conseguem perceber esse "Lado ruim" facilmente. Na verdade, eu passei muitos anos sem perceber, e mesmo depois de perceber, eu passei anos e anos sem me importar pra isso.
+
+Vamos começar a destrinchar o lado ruim então. Pra começar, o youtube possui um departamento de profissionais categorizados como Engenheiros Sociais. Normalmente, quando falamos de engenharia social, estamos nos referindo aos hackers, quando tentam enganar os bancos se passando por outra pessoa, como a sua avó, para resetar e obter a senha do cartão de crédito ou algo parecido. Isso não está errado, é uma forma de engenharia social mesmo, afinal estou usando o aspecto humano de uma conversa para obter vantagem.
+
+>Os ataques de engenharia social manipulam as pessoas para compartilhar informações que não deveriam compartilhar, baixar software que não deveriam baixar, visitar sites que não deveriam visitar, enviar dinheiro para criminosos ou cometer outros erros que comprometam sua segurança pessoal ou organizacional. [O que é engenharia social? IBM](https://www.ibm.com/br-pt/think/topics/social-engineering)
+
+Agora, como o Youtube usa engenharia social? Esses engenheiros passam a maior parte do tempo analisando dados estatísticos de milhões de usuários na tentativa de entender quais informações prendem mais os usuários. Em resumo, eles passam o dia inteiro tentando "hackear" o seu cérebro pra você gastar mais e mais horas no Youtube. Só por aí você já começa a entender a minha vontade de falar mal.
+
+<div style="display:flex; justify-content:space-around; padding:20px">
+    <img src="/blog/assets/images/11youtubepeople.png" alt="drawing" width="400"/>
+</div>
+
+
+Agora eu quero te fazer uma pergunta. Você se lembra de ter consentido em enviar todas as informações daquilo que você assiste, daquilo que você passou mais tempo, de todo o histórico de visitas para eles? Na verdade eu vou te fazer outra pergunta, você acha politicamente correto eles pedirem essa informação? Você acha normal eu chegar para uma pessoa e perguntar assim, ei, deixa eu ver todo o histórico dos seus vídeos no Youtube? Você acha isso uma conduta aceitável?
+
+Mesmo a plataforma sendo deles, não é aceitável eles terem acesso à essas informações. Isso é conteúdo sensível, é dos meus gostos, da minha vida, da minhas escolhas, da minha privacidade que estamos falando, e da privacidade de milhões de pessoas.
+
+E eles usaram todas essas informações contra nós. Simplesmente para ganhar mais dinheiro, manter mais pessoas viciadas na plataforma deles. Será que eles vão sofrer as consequências pela montanha de horas que por exemplo, um filho gastou ao invés de aproveitar a vida com os pais? Todo mundo conhece a situação lamentável de parentes se sentarem à mesa e não conseguirem ficar longe do celular. Pois é, o Youtube contribui para que isso aconteça.
+
+<div style="display:flex; justify-content:space-around; padding:20px">
+    <img src="/blog/assets/images/11privacidade.png" alt="drawing" width="400"/>
+</div>
+
+É difícil usar o Youtube e tentar evitar as armadilhas. Eu por exemplo, uso um plugin para desabilitar recomendações. Eu costumo olhar apenas os vídeos dos canais que eu sou inscrito e de vez em quando, desabilito o plugin para encontrar canais novos. Outra coisa que é válido comentar, é que o algoritmo não recomenda apenas vídeos que você gosta. Ele recomenda qualquer coisa que te mantenha na plataforma, então eles usam e abusam de outras sensações que apenas felicidade.
+
+Se o vídeo te causa medo, mas te mantém na plataforma, ele é válido.
+
+Se o vídeo te causa ansiedade, mas te mantém na plataforma, ele é válido.
+
+Se o vídeo mostra algo pertubador, mas te mantém na plataforma, ele é válido.
+
+O algorítmo não tem escrúpulos. Ele vai recomendar algo que te prejudique na cara de pau mesmo, se isso conseguir te manter mais tempo na plataforma.
+
+Infelizmente, eu cansei subitamente de falar sobre isso. Minhas recomendações: Use o plugin e desabilite o algorítmo. Dê preferências para vídeos longos e sem cortes/loucuras acontecendo e chamando sua atenção toda hora. Lembre-se que o Youtube usa todas as informações de milhões de usuários para tentar te viciar como uma pedra de crack viciaria qualquer pessoa. Eu não vou deixar de usar mas, acredito que é importante sabermos onde estamos nos metendo, até para criarmos medidas de proteção.
+
+Recomendo esse vídeo para quem entende inglês, e queira se aprofundar no assunto:
+
+<div style="display:flex; justify-content:space-around; padding:20px">
+    <img src="/blog/assets/images/11video.png" alt="drawing" width="400"/>
+</div>
+[What Your Feed Is Actually Doing to Your Brain](https://www.youtube.com/watch?v=PvZl9gq0w0A)
